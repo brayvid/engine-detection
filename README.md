@@ -4,7 +4,5 @@
 <h4>Blake Rayvid - <a href=https://github.com/brayvid>https://github.com/brayvid</a></h4>
 Flatiron School Data Science Bootcamp Phase 4 Project
 
-<br>
-Dataset 1: https://www.kaggle.com/datasets/mmoreaux/environmental-sound-classification-50
-
-Dataset 2: https://www.kaggle.com/datasets/nicorenaldo/chainsaw-testing
+<a href="https://www.kaggle.com/datasets/mmoreaux/environmental-sound-classification-50">Dataset 1</a>
+<a href="https://www.kaggle.com/datasets/nicorenaldo/chainsaw-testing">Dataset 2</a>
